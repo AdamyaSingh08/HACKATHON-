@@ -1,0 +1,174 @@
+[
+  {
+    "id": "1",
+    "retrieved_standards": [
+      {
+        "standard_id": "IS 8043",
+        "reason": "IS 8043:1991 Specification for hydrophobic Portland cement (second revision)"
+      },
+      {
+        "standard_id": "IS 4032",
+        "reason": "IS 4032:1985 Methods of chemical analysis of hydrolic cement (first revision) For"
+      },
+      {
+        "standard_id": "IS 1489",
+        "reason": "IS 1489(Part 2):1991 Specification for Portland pozzolana cement Part 2 calcined clay"
+      },
+      {
+        "standard_id": "IS 6452",
+        "reason": "IS 6452 : 1989 High alumina cement for structural use 1"
+      }
+    ],
+    "latency_seconds": 0.039
+  },
+  {
+    "id": "2",
+    "retrieved_standards": [
+      {
+        "standard_id": "IS 1786",
+        "reason": "IS 1786 : 1985 High strength defomed steel bars and wire for"
+      },
+      {
+        "standard_id": "IS 14215",
+        "reason": "IS 14215:1994"
+      },
+      {
+        "standard_id": "IS 2062",
+        "reason": "IS 2062:1999 Steel for general structural purposes (fifth revision) and 9 of"
+      },
+      {
+        "standard_id": "IS 432",
+        "reason": "IS 432 (Part Code of practice for design and construction of floor"
+      }
+    ],
+    "latency_seconds": 0.022
+  },
+  {
+    "id": "3",
+    "retrieved_standards": [
+      {
+        "standard_id": "IS 2386",
+        "reason": "IS 2386:1963 Methods of test for aggregates for concrete and"
+      },
+      {
+        "standard_id": "IS 383",
+        "reason": "IS 383 : 1970 COARSE AND FINE AGGREGATES FROM NATURAL SOURCES FOR"
+      },
+      {
+        "standard_id": "IS 9142",
+        "reason": "IS 9142 : 1979 Artificial lightweight aggregates for concrete masonry units 1"
+      }
+    ],
+    "latency_seconds": 0.024
+  },
+  {
+    "id": "4",
+    "retrieved_standards": [
+      {
+        "standard_id": "IS 2185",
+        "reason": "IS 2185 Concrete masonry units: (Part 1) : 1979 Hollow and solid"
+      },
+      {
+        "standard_id": "IS 432",
+        "reason": "IS 432 (Part Code of practice for design and construction of floor"
+      },
+      {
+        "standard_id": "IS 14215",
+        "reason": "IS 14215:1994"
+      },
+      {
+        "standard_id": "IS 13311",
+        "reason": "IS 13311 (Part 1):1992 Methods of non-destructive testing of concrete: Part 1"
+      }
+    ],
+    "latency_seconds": 0.022
+  },
+  {
+    "id": "5",
+    "retrieved_standards": [
+      {
+        "standard_id": "IS 6598",
+        "reason": "IS 6598 : 1972 CELLULAR CONCRETE FOR THERMAL INSULATION 1"
+      },
+      {
+        "standard_id": "IS 4032",
+        "reason": "IS 4032:1985 Methods of chemical analysis of hydraulic cement"
+      },
+      {
+        "standard_id": "IS 3466",
+        "reason": "IS 3466:1988 Specification for Masonry Cement (second revision)"
+      },
+      {
+        "standard_id": "IS 9743",
+        "reason": "IS 9743 : 1990 THERMAL INSULATION FINISHING CEMENTS (First Revision) 1"
+      }
+    ],
+    "latency_seconds": 0.018
+  },
+  {
+    "id": "6",
+    "retrieved_standards": [
+      {
+        "standard_id": "IS 5640",
+        "reason": "IS 5640: 1970 Methods of test for determining aggregate impact value of"
+      },
+      {
+        "standard_id": "IS 2386",
+        "reason": "IS 2386:1963 Methods of test for aggregates for concrete and"
+      },
+      {
+        "standard_id": "IS 383",
+        "reason": "IS 383:1970 Specification for coarse and fine aggregates from natural sources for"
+      },
+      {
+        "standard_id": "IS 6579",
+        "reason": "IS 6579 : 1981 COARSE AGGREGATE FOR WATER BOUND MACADAM (First Revision)"
+      }
+    ],
+    "latency_seconds": 0.018
+  },
+  {
+    "id": "7",
+    "retrieved_standards": [
+      {
+        "standard_id": "IS 2062",
+        "reason": "IS 2062:1999 Steel for general structural purposes (fifth revision) and 9 of"
+      },
+      {
+        "standard_id": "IS 1608",
+        "reason": "IS 1608 : 1995 Mechanical testing of metals-tensile testing (second revision) For"
+      },
+      {
+        "standard_id": "IS 6760",
+        "reason": "IS 6760 Steel"
+      },
+      {
+        "standard_id": "IS 7887",
+        "reason": "IS 7887 : 1992"
+      }
+    ],
+    "latency_seconds": 0.02
+  },
+  {
+    "id": "8",
+    "retrieved_standards": [
+      {
+        "standard_id": "IS 9142",
+        "reason": "IS 9142 : 1979 Artificial lightweight aggregates for concrete masonry units 1"
+      },
+      {
+        "standard_id": "IS 383",
+        "reason": "IS 383 : 1970 COARSE AND FINE AGGREGATES FROM NATURAL SOURCES FOR"
+      },
+      {
+        "standard_id": "IS 2686",
+        "reason": "IS 2686:1977"
+      },
+      {
+        "standard_id": "IS 2386",
+        "reason": "IS 2386:1963 Methods of test for aggregates for concrete and"
+      }
+    ],
+    "latency_seconds": 0.017
+  }
+]

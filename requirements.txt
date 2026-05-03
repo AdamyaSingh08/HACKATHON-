@@ -2,3 +2,34 @@
 # faiss-cpu
 # pymupdf
 # numpy
+# Core
+
+python>=3.9
+
+# Data handling
+
+numpy
+pandas
+
+# Machine Learning / Embeddings
+
+scikit-learn
+sentence-transformers
+
+# Vector Database
+
+faiss-cpu
+
+# NLP / LLM support
+
+transformers
+torch
+
+# Utilities
+
+tqdm
+jsonschema
+
+# (Optional but useful)
+
+matplotlib

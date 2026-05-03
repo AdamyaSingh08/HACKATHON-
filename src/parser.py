@@ -18,7 +18,7 @@ def split_standards(text):
     standards = []
 
     for i in range(1, len(parts), 2):
-        std_id = parts[i].strip()
+        std_id = parts[i].replace("\n", "").strip()
         content = parts[i] + parts[i+1]
 
         content = re.sub(r"\s+", " ", content)
